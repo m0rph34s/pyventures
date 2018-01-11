@@ -1,0 +1,5 @@
+http://www.bogotobogo.com/python/python_sets_union_intersection.php
+
+https://en.wikipedia.org/wiki/Cryptographic_hash_function
+
+http://www.bogotobogo.com/python/python_hash_tables_hashing_dictionary_associated_arrays.php
